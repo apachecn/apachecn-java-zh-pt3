@@ -1,3 +1,4 @@
++   [Java 脚本编程教程：集成 Groovy 和 JS](README.md)
 +   [一、入门指南](01.md)
 +   [二、执行脚本](02.md)
 +   [三、向脚本传递参数](03.md)
@@ -11,4 +12,3 @@
 +   [十一、在 Nashorn 中使用 JavaFX](11.md)
 +   [十二、Nashorn 的 Java APIs](12.md)
 +   [十三、调试、跟踪和分析脚本](13.md)
-+   [Java 脚本编程教程：集成 Groovy 和 JS](README.md)
